@@ -1,0 +1,43 @@
+# RSP Framework Code Owners
+#
+# These owners will be automatically requested for review when someone
+# opens a pull request that modifies code in their area.
+#
+# Order is important; the last matching pattern takes precedence.
+
+# Default owner for everything in the repo
+* @rahulsidpatil
+
+# Documentation - core framework content
+/docs/ @rahulsidpatil
+
+# Critical framework documentation requiring careful review
+/docs/02-framework/ @rahulsidpatil
+/docs/03-patterns/ @rahulsidpatil
+
+# Templates - these are used by practitioners
+/templates/ @rahulsidpatil
+
+# Examples - can be reviewed more flexibly
+/examples/ @rahulsidpatil
+
+# Research content
+/research/ @rahulsidpatil
+
+# Tools and scripts - require review for safety
+/tools/ @rahulsidpatil
+/tools/scripts/*.sh @rahulsidpatil
+
+# GitHub workflows and configurations - critical for CI/CD
+/.github/ @rahulsidpatil
+/.github/workflows/ @rahulsidpatil
+
+# Root level documentation files
+/README.md @rahulsidpatil
+/CONTRIBUTING.md @rahulsidpatil
+/CHANGELOG.md @rahulsidpatil
+/LICENSE @rahulsidpatil
+
+# Configuration files
+/.markdownlint.json @rahulsidpatil
+/.gitignore @rahulsidpatil

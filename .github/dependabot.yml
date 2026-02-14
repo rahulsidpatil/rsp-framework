@@ -1,0 +1,29 @@
+# Dependabot configuration for RSP Framework
+# Keeps GitHub Actions dependencies up to date
+
+version: 2
+updates:
+  # Monitor GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "rahulsidpatil"
+
+  # If you add npm packages in the future
+  # - package-ecosystem: "npm"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "weekly"
+  #   labels:
+  #     - "dependencies"
+  #     - "npm"
