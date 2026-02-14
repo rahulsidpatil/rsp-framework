@@ -144,4 +144,4 @@ Academic papers and case studies are published in the [research section](/resear
 - [LinkedIn](linkedin.com/in/rahulsidpatil) [Medium](https://medium.com/@cndf.dev) [YouTube](http://www.youtube.com/@cndf-dev)
 
 ## License
-[License type]
+[Apache 2.0 License](https://github.com/rahulsidpatil/rsp-framework/blob/7ce20b6bdeec8792b9f5b6c146180f5bd51afe3f/LICENSE)
