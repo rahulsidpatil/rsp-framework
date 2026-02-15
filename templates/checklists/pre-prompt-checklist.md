@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Pre-Prompt Checklist
 
 What to prepare before engaging AI for development tasks.

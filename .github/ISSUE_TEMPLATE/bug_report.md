@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 ---
 name: Bug report
 about: Report a problem with RSP Framework documentation or tools

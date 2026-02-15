@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Deployment Checklist
 
 Pre-deployment validation for AI-generated code.

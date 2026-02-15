@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Changelog
 
 All notable changes to the RSP Framework will be documented in this file.

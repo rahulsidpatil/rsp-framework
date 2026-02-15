@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Development Phases in AI-Native Development
 
 ## Overview

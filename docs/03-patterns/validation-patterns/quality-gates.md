@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Quality Gates for AI-Generated Code
 
 ## Intent

@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # The RSP AI-Native SDLC Framework: Toward Reproducible, Structured, and Pragmatic AI-Native Software Development
 
 **Author:** Rahul Sid Patil  

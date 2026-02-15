@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 ---
 name: Feature request
 about: Suggest a new feature or improvement for RSP Framework

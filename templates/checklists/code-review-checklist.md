@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Code Review Checklist for AI-Generated Code
 
 See full pattern at: [Code Review Pattern](../../docs/03-patterns/validation-patterns/code-review.md)

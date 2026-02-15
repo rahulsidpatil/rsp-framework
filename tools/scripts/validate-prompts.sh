@@ -1,4 +1,6 @@
 #!/bin/bash
+# This is V1.0.0 of RSP AI Native SDLC Framework
+
 
 # validate-prompts.sh
 # Validates prompt files follow RSP Framework conventions

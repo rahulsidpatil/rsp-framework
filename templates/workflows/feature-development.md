@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Feature Development Workflow
 
 Complete step-by-step workflow for implementing new features with AI assistance.
