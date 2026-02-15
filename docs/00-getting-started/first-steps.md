@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # First Steps with RSP Framework
 
 ## Your First AI-Native Workflow

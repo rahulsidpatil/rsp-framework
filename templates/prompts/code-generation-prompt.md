@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Code Generation Prompt Template
 
 See detailed pattern at: [Code Generation Pattern](../../docs/03-patterns/prompt-patterns/code-generation.md)

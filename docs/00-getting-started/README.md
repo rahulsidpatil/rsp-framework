@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Getting Started with RSP Framework
 
 Welcome to the RSP Framework! This guide will help you get started with AI-Native software development.

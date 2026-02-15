@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Requirements Extraction Prompt Template
 
 See detailed pattern at: [Requirements Extraction Pattern](../../docs/03-patterns/prompt-patterns/requirements-extraction.md)

@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Refactoring Prompt Template
 
 See detailed pattern at: [Refactoring Pattern](../../docs/03-patterns/prompt-patterns/refactoring.md)

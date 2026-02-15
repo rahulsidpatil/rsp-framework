@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Bug Fix Workflow
 
 Systematic approach to debugging and fixing issues with AI assistance.

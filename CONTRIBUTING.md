@@ -1,3 +1,5 @@
+<!-- This is V1.0.0 of RSP AI Native SDLC Framework -->
+
 # Contributing to RSP Framework
 
 Thank you for your interest in contributing to the RSP Framework! This document provides guidelines for contributing to the project.
